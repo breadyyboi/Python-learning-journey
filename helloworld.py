@@ -1,4 +1,5 @@
 import math
+#PART 1
 print(3+4) #simple caluclation
 print(3-4)
 print(3*4)
